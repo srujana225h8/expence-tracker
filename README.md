@@ -117,11 +117,8 @@ This project is a graphical user interface (GUI) based Expense Tracker applicati
 
 ![Expense Tracker](screenshots/expense_tracker.png)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-For any issues or questions, please contact [your email].
+For any issues or questions, please contact [22wh1a05h8@bvrithyderabad.edu.in].
 
