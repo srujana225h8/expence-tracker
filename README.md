@@ -115,7 +115,7 @@ This project is a graphical user interface (GUI) based Expense Tracker applicati
 
 ## Screenshots
 
-![Expense Tracker](screenshots/expense_tracker.png)
+![Expense Tracker](screenshots/expence_tracker1.png)
 
 
 ---
